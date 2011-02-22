@@ -1,0 +1,1 @@
+This will get the open-source repository of the Server2Go-Project (Windows-Version)
